@@ -7,7 +7,7 @@ Generate studio-quality videos, images, and audio with the [Runway API](https://
 ### Agent Skills
 
 ```bash
-npx skills add runway-studio-skills
+npx skills add runwayml/runway-studio-skills
 ```
 
 Works with Claude Code, Cursor, Copilot, Codex, Windsurf, and other agents.
@@ -15,7 +15,7 @@ Works with Claude Code, Cursor, Copilot, Codex, Windsurf, and other agents.
 ### Manual
 
 ```bash
-git clone https://github.com/your-org/runway-studio-skills.git
+git clone https://github.com/runwayml/runway-studio-skills.git
 export RUNWAYML_API_SECRET="your-api-key"
 ```
 

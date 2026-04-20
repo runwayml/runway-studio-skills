@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/runway-studio-skills"
+    "url": "https://github.com/runwayml/runway-studio-skills"
   },
   "files": [
     "SKILL.md",
